@@ -66,7 +66,7 @@ const Navbar = () => {
           MEJIWOO <br />
           미지우
         </a>
-        <div className="navbar-end gap-4 ">
+        <div className="navbar-end gap-4 lg:gap-7 ">
           <div className="form-control relative hidden lg:flex">
             <input
               type="text"

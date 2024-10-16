@@ -6,7 +6,7 @@ import img4 from "../../assets/banner/image 21.png";
 const Banner = () => {
   return (
     <div>
-      <div className="hero bg-base-200 min-h-screen">
+      <div className="hero bg-[#F7F6F0] min-h-screen">
         <div className="hero-content text-center overflow-hidden">
           <div className="max-w-5xl flex justify-between items-center gap-4 flex-col lg:flex-row">
             <img src={img4} className="md:w-44" alt="" />
