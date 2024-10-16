@@ -44,6 +44,17 @@ const Navbar = () => {
               className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow"
             >
               {links}
+              <li>
+                {" "}
+                <div className="form-control relative">
+                  <input
+                    type="text"
+                    placeholder="Search"
+                    className="search p-2 border rounded-md bg-gray-200 md:w-40 w-32 visited:bg-white "
+                  />
+                  <IoSearch className="absolute right-16 top-[17px]" />
+                </div>
+              </li>
             </ul>
           </div>
         </div>
@@ -51,12 +62,12 @@ const Navbar = () => {
         <div className="navbar-start hidden lg:flex">
           <ul className="menu menu-horizontal px-1">{links}</ul>
         </div>
-        <a className="btn btn-ghost text-lg font-light navbar-center">
+        <a className="btn btn-ghost text-lg font-medium navbar-center">
           MEJIWOO <br />
           미지우
         </a>
         <div className="navbar-end gap-4 ">
-          <div className="form-control relative">
+          <div className="form-control relative hidden lg:flex">
             <input
               type="text"
               placeholder="Search"

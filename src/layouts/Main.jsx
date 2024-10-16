@@ -3,8 +3,10 @@ import Navbar from "../components/Navbar";
 
 const Main = () => {
   return (
-    <div className="max-w-5xl mx-auto">
-      <Navbar></Navbar>
+    <div>
+      <div className="max-w-5xl mx-auto">
+        <Navbar></Navbar>
+      </div>
       <Banner></Banner>
     </div>
   );
