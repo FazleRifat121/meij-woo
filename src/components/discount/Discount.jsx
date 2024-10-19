@@ -21,7 +21,7 @@ const Discount = () => {
                 SHOP NOW
               </button>
             </div>
-            <img src={img4} className="md:w-72 mt-10 lg:mt-0" alt="" />
+            <img src={img4} className="md:w-80 mt-10 lg:mt-0" alt="" />
           </div>
         </div>
       </div>
