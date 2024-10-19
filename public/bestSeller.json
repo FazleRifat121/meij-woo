@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co.com/NyhtCQh/355278786-1944515739251375-2601576688677791938-n-1.png",
+    "title": "Euphoria Crop Blouse",
+    "price": "Rp. 125.000"
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co.com/ZmVdZjQ/352158854-3608341479451255-1472828259758897531-n-1.png",
+    "title": "Venus Halter Dress - Elegant Evening Wear",
+    "price": "Rp. 150.000"
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co.com/y6XCMn8/356039326-816908229869602-5989506973685575536-n-1.png",
+    "title": "Snap Pure Blouse - Stylish and Versatile",
+    "price": "Rp. 200.000"
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co.com/3d547xS/a26705adce2dfe3766291afc58a338ef.jpg",
+    "title": "Chic Summer Top - Light and Breezy",
+    "price": "Rp. 175.000"
+  },
+  {
+    "id": 5,
+    "img": "https://i.ibb.co.com/4sqby5g/A91550001-01-Front.jpg",
+    "title": "Trendy Denim Jacket - Perfect for Layering",
+    "price": "Rp. 250.000"
+  },
+  {
+    "id": 6,
+    "img": "https://i.ibb.co.com/wBF2QKF/Frame-20.png",
+    "title": "Floral Waffle Tee",
+    "price": "Rp. 300.000"
+  }
+]
