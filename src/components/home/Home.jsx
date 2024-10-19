@@ -3,6 +3,7 @@ import Navbar from "../Navbar";
 import Banner from "../banner/Banner";
 import SeasonCollection from "../cards/SeasonCollection";
 import BestSeller from "../cards/BestSeller";
+import Discount from "../discount/Discount";
 const Home = () => {
   return (
     <div>
@@ -14,6 +15,7 @@ const Home = () => {
         <SeasonCollection></SeasonCollection>
         <BestSeller></BestSeller>
       </div>
+      <Discount></Discount>
     </div>
   );
 };
